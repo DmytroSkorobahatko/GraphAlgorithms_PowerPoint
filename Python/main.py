@@ -1,4 +1,4 @@
-import pygame as pg
+# import pygame as pg
 
 from kruskal import KruskalAlgorithm
 
@@ -21,5 +21,5 @@ def main_menu():
 
 
 if __name__ == '__main__':
-    pg.init()
-    # algo_kruskal()
+    # pg.init()
+    algo_kruskal()
